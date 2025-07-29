@@ -12,7 +12,7 @@ A modern, responsive landing page for the fictional AI-powered marketing tool **
 
 ## 📸 Preview
 
-![Landing Page Screenshot](./public/preview.png) <!-- Replace with actual image path or delete this line -->
+![Landing Page Screenshot](./public/home.png) <!-- Replace with actual image path or delete this line -->
 
 ---
 
