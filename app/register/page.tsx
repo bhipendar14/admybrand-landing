@@ -198,7 +198,7 @@ export default function RegisterPage() {
                 </div>
                 <div className="flex gap-2 sm:gap-4 justify-center">
                   <button type="button" className="bg-white rounded-full p-2 sm:p-3 shadow hover:scale-105 transition-transform">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/800px-Google_%22G%22_logo.svg.png" alt="Google" className="w-5 h-5" />
+                    <img src="" alt="Google" className="w-5 h-5" />
                   </button>
                   <button type="button" className="bg-white rounded-full p-2 sm:p-3 shadow hover:scale-105 transition-transform"><Facebook className="w-5 h-5 text-blue-600" /></button>
                   <button type="button" className="bg-white rounded-full p-2 sm:p-3 shadow hover:scale-105 transition-transform"><Github className="w-5 h-5 text-gray-800" /></button>
